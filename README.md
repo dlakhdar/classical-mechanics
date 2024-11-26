@@ -1,2 +1,2 @@
-# PHYS-410
+# Classical Mechanics
 A repository for my classical mechanics course 
